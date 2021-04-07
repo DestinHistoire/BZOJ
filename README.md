@@ -1,1 +1,1 @@
-# BZOJ
+# LeetCode
